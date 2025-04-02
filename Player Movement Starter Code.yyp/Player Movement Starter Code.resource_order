@@ -6,7 +6,6 @@
   "ResourceOrderSettings":[
     {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
-    {"name":"rm_new","order":1,"path":"rooms/rm_new/rm_new.yy",},
     {"name":"spr_enemy_jump","order":1,"path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},
     {"name":"spr_enemy_run","order":2,"path":"sprites/spr_enemy_run/spr_enemy_run.yy",},
     {"name":"spr_player_fall","order":1,"path":"sprites/spr_player_fall/spr_player_fall.yy",},

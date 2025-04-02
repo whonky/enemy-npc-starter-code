@@ -39,7 +39,6 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"id":{"name":"rm_new","path":"rooms/rm_new/rm_new.yy",},},
     {"id":{"name":"spr_enemy_idle","path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",},},
     {"id":{"name":"spr_enemy_jump","path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},},
     {"id":{"name":"spr_enemy_run","path":"sprites/spr_enemy_run/spr_enemy_run.yy",},},
@@ -57,7 +56,6 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"roomId":{"name":"rm_new","path":"rooms/rm_new/rm_new.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
