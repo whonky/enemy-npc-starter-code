@@ -1,6 +1,13 @@
 /// @desc Enemy collision
-
-if(slidedelay > 0) // currently sliding
-{
-	instance_destroy(other);
+if(!disabled) {
+	if(slidedelay > 0) // currently sliding
+	{
+		instance_destroy(other);
+	}
+	else
+	{
+		disabled = true;
+		alarm[0] = room_speed * 2;
+		image_blend = c_red;
+	}
 }
