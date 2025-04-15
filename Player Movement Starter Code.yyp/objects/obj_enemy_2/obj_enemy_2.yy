@@ -32,12 +32,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy_idle",
-    "path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",
+    "name":"spr_enemy_2",
+    "path":"sprites/spr_enemy_2/spr_enemy_2.yy",
   },
   "spriteMaskId":{
-    "name":"spr_enemy_idle",
-    "path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",
+    "name":"spr_enemy_2",
+    "path":"sprites/spr_enemy_2/spr_enemy_2.yy",
   },
   "visible":true,
 }
