@@ -6,8 +6,10 @@
   "ResourceOrderSettings":[
     {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
     {"name":"obj_enemy_2","order":4,"path":"objects/obj_enemy_2/obj_enemy_2.yy",},
+    {"name":"obj_enemy_event","order":5,"path":"objects/obj_enemy_event/obj_enemy_event.yy",},
     {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_enemy_event","order":15,"path":"sprites/spr_enemy_event/spr_enemy_event.yy",},
     {"name":"spr_enemy_jump","order":1,"path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},
     {"name":"spr_enemy_run","order":2,"path":"sprites/spr_enemy_run/spr_enemy_run.yy",},
     {"name":"spr_player_fall","order":1,"path":"sprites/spr_player_fall/spr_player_fall.yy",},

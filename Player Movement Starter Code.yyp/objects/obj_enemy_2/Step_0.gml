@@ -1,14 +1,5 @@
 /// @desc Core Enemy Logic
-// This enemy has automated jumping and is destroyed by being jumped on top of by the player
-
-
-
-//if (vsp < 0) {
-//	vsp += grv;
-//	vsp = clamp(vsp, -4, 4);
-//}
-
-
+// This enemy is destroyed by being jumped on top of by the player
 
 
 // Horizontal collision
@@ -26,19 +17,6 @@ if (place_meeting(y + vsp, x, obj_wall)) {
 	}
 	vsp = 0;
 }
-
-// jumping
-if (place_meeting(x + 2 * speed, y, obj_wall)) {
-	vsp += jumpspd; // jump
-}
-
-vsp += grv;
-
-
-
-y += vsp;
-
-
 
 
 
